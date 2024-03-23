@@ -17,6 +17,8 @@ function App() {
   const removeValue = ()=>{
     if(counter>=1){
       setCounter(counter- 1);
+      console.log("developer kaushal");
+      
     }
   }
 
